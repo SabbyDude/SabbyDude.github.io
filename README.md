@@ -48,14 +48,6 @@ This repository contains a 8-bit retro styled personal portfolio website that's 
 
 The **Pixel Portfolio** is licensed under the terms of the [MIT license](LICENSE) and is available for free.
 
-## Links
-
--   [Website](https://thekrishna.in/v1/index.html)
--   [404 Page](https://thekrishna.in/notfound.html)
--   [Documentation](https://github.com/bearlike/Pixel-Portfolio-Webite/blob/master/docs/documentation.md)
--   [Issue tracker](https://github.com/bearlike/Pixel-Portfolio-Webite/issues)
--   [Source code](https://github.com/bearlike/Pixel-Portfolio-Webite)
-
 
 
 ![wave](http://cdn.thekrishna.in/img/common/border.png)
