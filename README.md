@@ -23,7 +23,7 @@ This repository contains a 8-bit retro styled personal portfolio website that's 
 
 -   Fully responsive
 -   Optimized for mobiles and all browsers
--   A Super Mario Bros inspired [404 Page](http://thekrishna.in/notfound.html)
+-   A Super Mario Bros inspired 
 
 | Desktop       | Mobile |
 | ------------- | ----------- |
